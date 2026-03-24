@@ -59,10 +59,10 @@ Strategies for integrating key influencers to enhance product pricing and custom
 
 ## Sample Dashboards
 
-<img src="./Dash/1.png" width="1000"/>&nbsp;
+<img src="1.png" width="1000"/>&nbsp;
 
-<img src="./Dash/2.png" width="1000"/>&nbsp;
+<img src="2.png" width="1000"/>&nbsp;
 
-<img src="./Dash/3.png" width="1000"/>&nbsp;
+<img src="3.png" width="1000"/>&nbsp;
 
-<img src="./Dash/4.png" width="1000"/>&nbsp;
+<img src="4.png" width="1000"/>&nbsp;
